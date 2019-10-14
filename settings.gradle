@@ -1,0 +1,2 @@
+include ':app', ':moviefavoritemodule'
+rootProject.name='NewDicodingMovie'

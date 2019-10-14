@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <SwitchPreferenceCompat
+        android:summary="@string/desc_notif_daily"
+        app:iconSpaceReserved="false"
+        app:key="daily_reminder"
+        app:title="Daily Reminder" />
+
+    <SwitchPreferenceCompat
+        android:summary="@string/desc_release_notif"
+        app:iconSpaceReserved="false"
+        app:key="release_reminder"
+        app:title="New Release Reminder" />
+</PreferenceScreen>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewDicodingMovie</string>
+    <string name="Description">Deskripsi</string>
+    <string name="tv_seedetail"><![CDATA[klik untuk detail>>]]></string>
+    <string name="titleMovie">Judul Film</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="titleFilm">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="overview">Overview</string>
+    <string name="rating">rating</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Film</string>
+    <string name="tv_series">Series TV</string>
+    <string name="search">Pencarian</string>
+    <string name="Favorite">Favorit</string>
+    <string name="setting">Atur Notifikasi</string>
+    <string name="Change_Language">Ganti Bahasa</string>
+    <string name="topRated">Rating Terringgi</string>
+    <string name="nowPlaying">Tayang Sekarang</string>
+    <string name="search_placeholder">Judul Film</string>
+    <string name="search_hint">Judul Film</string>
+    <string name="appwidget_text">WIDGET</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="favorite_empty">Install ulang widget anda</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="nodata">Install Ulang widget anda</string>
+    <string name="widget_favorite">widget favorit</string>
+    <string name="alarm_setting">Pengaturan reminder</string>
+    <string name="reminder_open_app">Yuk Cek aplikasi anda sekarang</string>
+    <string name="reminder_open_app_subtitle">Reminder di set jam 7 pagi</string>
+    <string name="reminder_release_movie">Reminder Release film</string>
+    <string name="reminder_release_movie_subtitle">Reminder di set jam 8 pagi</string>
+    <string name="notification_release">Notifikasi Release</string>
+    <string name="ReleaseNotif">Release</string>
+    <string name="reminder_setting">Pengaturan Notifikasi</string>
+    <string name="desc_notif_daily">Reminder di set jam 7 pagi</string>
+    <string name="desc_release_notif">Reminder di set jam 8 pagi</string>
+    <string name="notif_daily">Yuk Cek aplikasi anda sekarang</string>
+    <string name="reminder_has_release">Rilis hari ini. Check this out!!</string>
+</resources>

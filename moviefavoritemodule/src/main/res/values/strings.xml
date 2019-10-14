@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieFavoriteModule</string>
+    <string name="titleMovie">Title Movie</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="description">Description</string>
+    <string name="tv_seedetail"><![CDATA[Click to See Details>>]]></string>
+
+</resources>

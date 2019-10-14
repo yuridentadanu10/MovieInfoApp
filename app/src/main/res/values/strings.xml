@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NewDicodingMovie</string>
+    <string name="Description">Description</string>
+    <string name="tv_seedetail"><![CDATA[Click to see details>>]]></string>
+    <string name="titleMovie">Title Movie</string>
+    <string name="release_date">ReleaseDate</string>
+    <string name="titleFilm">Movie Title</string>
+    <string name="description">Description</string>
+    <string name="overview">Overview</string>
+    <string name="rating">rating</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movie</string>
+    <string name="tv_series">Tv Series</string>
+    <string name="search">Search</string>
+    <string name="Favorite">Favorite</string>
+    <string name="setting"> Setting Notification</string>
+    <string name="Change_Language">Change Language</string>
+    <string name="topRated">Top Rated</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="search_placeholder">Movie Title</string>
+    <string name="search_hint">Movie Title</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_empty">ReInstall your Widget</string>
+    <string name="favorite_movie">FavoriteMovie</string>
+    <string name="nodata">Reinstall your widget</string>
+    <string name="widget_favorite">Favorite Widget</string>
+    <string name="alarm_setting">Reminder Setting</string>
+    <string name="reminder_open_app">Open App Reminder</string>
+    <string name="reminder_open_app_subtitle">set at 7 am</string>
+    <string name="reminder_release_movie">Reminder Release movie</string>
+    <string name="reminder_release_movie_subtitle">set at 8 am</string>
+    <string name="notification_release">Notification Release</string>
+    <string name="ReleaseNotif">Release</string>
+    <string name="reminder_setting">Setting Notification</string>
+    <string name="desc_notif_daily">Reminder daily set at 7AM</string>
+    <string name="desc_release_notif">Reminder Release App set at 8AM</string>
+    <string name="notif_daily">Check Your App Noww</string>
+    <string name="reminder_has_release">Release Today. Check this out!!</string>
+</resources>

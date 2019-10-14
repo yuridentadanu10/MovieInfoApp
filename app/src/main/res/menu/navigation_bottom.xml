@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/movie"
+        android:id="@+id/movie"
+        android:iconTintMode="src_atop"
+        android:icon="@drawable/movie"/>
+    <item
+        android:title="@string/tv_series"
+        android:id="@+id/series_tv"
+        android:iconTintMode="src_atop"
+        android:icon="@drawable/television"/>
+    <item
+        android:title="@string/search"
+        android:id="@+id/topRated"
+        android:iconTintMode="src_atop"
+        android:icon="@drawable/magnifier"/>
+
+    <item
+        android:title="@string/Favorite"
+        android:id="@+id/favorite"
+        android:iconTintMode="src_atop"
+        android:icon="@drawable/ic_favorite_unchecked"/>
+
+</menu>
